@@ -1,2 +1,2 @@
 # Learned and Earned
-A repo containing all my certifications received till now
+A repo containing all my certifications received till now, except for Language
